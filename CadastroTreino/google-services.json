@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "549722098730",
+    "project_id": "treino-ba698",
+    "storage_bucket": "treino-ba698.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549722098730:android:062a1c2ad6cd3007688753",
+        "android_client_info": {
+          "package_name": "com.example.cadastrotreino"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyMVgb1b9oJeAsCsRZYR6YXxyvRa_tDQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
